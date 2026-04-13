@@ -220,6 +220,15 @@ cd Hydra-BitNet
 }
 ```
 
+## Acknowledgments
+
+This project builds on foundational work by many researchers and open-source
+contributors. See [ACKNOWLEDGMENTS.md](ACKNOWLEDGMENTS.md) for full
+attribution, including the teams behind BitNet, Medusa, llama.cpp, bitnet.cpp,
+speculative decoding, H2O, PyTorch, Hugging Face, and the Alpaca dataset.
+
+Thank you to everyone who publishes their research, code, and models openly.
+
 ## License
 
 MIT
