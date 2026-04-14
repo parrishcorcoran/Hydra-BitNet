@@ -1,8 +1,20 @@
-.venv/
 __pycache__/
 *.pyc
-data/*.bin
-data/*.log
+.venv/
+venv/
+
+# Checkpoints / data (large files)
 checkpoints/
+checkpoints_ablation/
+data/
+*.bin
+*.pt
 *.gguf
-build*/
+
+# W&B
+wandb/
+
+# Editors
+.vscode/
+.idea/
+.DS_Store
